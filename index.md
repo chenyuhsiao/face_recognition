@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# face recognition
+# face_recognition
 ## Header 2
 ### Header 3
 
